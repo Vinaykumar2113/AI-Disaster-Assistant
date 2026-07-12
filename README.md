@@ -27,4 +27,4 @@ Authentication: JWT
 
 ## Status
 
-🚧 Currently under development
+🚧 Currently under developmentnode -v
